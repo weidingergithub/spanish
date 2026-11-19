@@ -23,7 +23,7 @@
 - Phase 3: longer unscripted dialogue and unfamiliar speakers.
 - Phase 4: practical everyday and later technical manufacturing scenarios (testing, quality, orders, troubleshooting).
 
-Advance by demonstrated ability and comfort, not fixed calendar dates. Proposed active practice: 20–45 minutes daily subject to learner confirmation. Ambient listening is optional extra exposure, not a substitute for focused practice.
+Advance by demonstrated ability and comfort, not fixed calendar dates. Initial launch agreed: guided 15-minute sessions, provisionally five days weekly for the first two weeks; gradually increase duration when comfortable. See tutoring methodology for session structure. Ambient listening is optional extra exposure, not a substitute for focused practice.
 
 ## Evaluation
 Track comprehension on unseen clips, number and type of prompts, vocabulary retention by modality, conversational duration, reading and writing practice, learner confidence, and pronunciation issues actually observed. Never infer a precise CEFR level from reading history alone.
