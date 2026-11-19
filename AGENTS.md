@@ -13,3 +13,7 @@ Repository: `weidingergithub/spanish`. Treat this repository as the canonical so
 - Do not fabricate scores, audio analysis, generated recordings, learning activity, or repository updates. Record only observed outcomes.
 - Ask for the target branch before modifying this repository in a new working session; never assume a different repo or branch.
 - Keep documentation concise and structured; avoid building software before it is needed.
+
+- For initial lessons follow the documented 15-minute, tutor-led, predictable launch in `docs/tutoring-methodology.md`; announce transitions, permit English, and avoid surprise assessments. Adapt pace to the learner.
+- At the start of every new Spanish session, retrieve the current methodology, curriculum, learner profile, and latest journal/vocabulary records. Use actual observed performance to adapt the next lesson.
+- After a lesson, record observed strengths, struggles, practice and next steps in the repository when authorized; verify GitHub writes and say explicitly if a record could not be saved. Do not imply that conversational memory alone guarantees continuity.
